@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Monsterrat';
+  src: url(fonts/ofont.ru_Montserrat\ Alternates.ttf);
+  font-weight: 700;
+}
+* {
+  margin: 0;
+}
+
+canvas {
+  background: #2b2b2b;
+}
